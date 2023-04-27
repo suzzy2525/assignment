@@ -1,0 +1,14 @@
+b{
+    margin: 40px;
+    padding: 50px, 40px, 10px, 20spx;
+}
+
+body{
+    background-image:url(./tsis.jpg);
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode:overlay;
+}

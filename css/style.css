@@ -1,0 +1,15 @@
+body{
+   
+}
+.name{
+    background-color: blue;
+    width: 500px;
+    height: 400px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+h5{
+    color: gray
+}
