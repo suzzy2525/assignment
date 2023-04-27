@@ -9,4 +9,14 @@ body{
 .login{
     color: blue;
 }
+.log input{
+    height: 50px;
+    width: 150px;
+    background-color: aliceblue;
+    
+}
+input {
+    border: none;
+    border-bottom: 1px solid blue;
+}
 
